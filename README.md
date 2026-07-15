@@ -94,7 +94,7 @@ Vídeo da execução completa no labirinto 8x8: https://youtu.be/1a2v_xoSXcU
 
 Vídeo da explicação do funcionamento do robô: https://youtu.be/TcLgV6eDGfE
 <p>
-  <img src="docs/imagens/IMG-20260708-WA0076.jpg" alt="Equipe do projeto" width="45%">
+  <img src="docs/imagens/IMG-20260708-WA0076.jpg" alt="Equipe do projeto" width="65%">
 </p>
 
 ## Sobre este fork

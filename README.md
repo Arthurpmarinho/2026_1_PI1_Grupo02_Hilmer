@@ -1,4 +1,18 @@
-# Micromouse — PI1 2026.1, Grupo 02 (Prof. Hilmer)
+# Micromouse, PI1 2026.1, Group 02
+
+> **In English.** Autonomous robot that maps an unknown 4x4 or 8x8 maze, reaches the center and then runs the shortest path. **1st place in the UnB internal Micromouse competition.**
+> I led the electronics team. I designed the schematics of the robot boards in KiCad, picked the parts around an ESP32, and wrote the low-level firmware for the motors, the ToF sensors, the IMU and the encoders over I2C. Live telemetry goes over Wi-Fi to a FastAPI and React dashboard.
+>
+> [8x8 maze run](https://youtu.be/1a2v_xoSXcU) · [How it works](https://youtu.be/TcLgV6eDGfE) · [Boards](hw/PCB) · [Firmware](src/firmware)
+
+<p>
+  <img src="hw/PCB/Logic%20%26%20Control%20Board/3D_PCB2_2026-06-05.png" width="48%" alt="Logic and control board">
+  <img src="hw/PCB/Motor%20%26%20Drive%20Board/3D_PCB1_2026-06-30.png" width="48%" alt="Motor and drive board">
+</p>
+
+---
+
+## Micromouse, PI1 2026.1, Grupo 02 (Prof. Hilmer)
 
 Este projeto foi desenvolvido para a disciplina de Projeto Integrador 1 (PI1) da FCTE/UnB em 2026/1. O objetivo do desafio foi projetar e construir um robô Micromouse capaz de resolver labirintos 4x4 e 8x8 de forma totalmente autônoma, sem intervenção humana durante a corrida.
 
